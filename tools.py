@@ -3,7 +3,7 @@ from scipy.special import softmax
 
 def greedy_choice(a, axis=None):
     max_values = np.amax(a, axis=axis, keepdims=True)
-    choices = (a == max_values).astype(np.float)
+    choices = (a == max_values).astype(float)
     return choices / np.sum(choices, axis=axis, keepdims=True)
 
 def bootstrap_ci(data,ci_val=.95,n_bootstraps=1000):
