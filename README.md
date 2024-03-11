@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10804450.svg)](https://doi.org/10.5281/zenodo.10804450)
+
 Code supporting "Mitigating Biases in Collective Decision-Making: Enhancing Performance in the Face of Fake News". 
 
 Our results were obtained with ```python3.7```
