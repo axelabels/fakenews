@@ -1,7 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10804450.svg)](https://doi.org/10.5281/zenodo.10804450)
 
-Code supporting "Mitigating Biases in Collective Decision-Making: Enhancing Performance in the Face of Fake News". 
+Code supporting "Mitigating Biases in Collective Decision-Making: Enhancing Performance in the Face of Fake News". If you use this code in your own research, please cite this paper:
 
+```
 @misc{abels2024mitigating,
       title={Mitigating Biases in Collective Decision-Making: Enhancing Performance in the Face of Fake News}, 
       author={Axel Abels and Elias Fernandez Domingos and Ann Nowé and Tom Lenaerts},
@@ -10,6 +11,7 @@ Code supporting "Mitigating Biases in Collective Decision-Making: Enhancing Perf
       archivePrefix={arXiv},
       primaryClass={cs.HC}
 }
+```
 
 Our results were obtained with ```python3.7```
 
