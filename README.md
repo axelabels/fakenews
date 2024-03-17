@@ -2,6 +2,15 @@
 
 Code supporting "Mitigating Biases in Collective Decision-Making: Enhancing Performance in the Face of Fake News". 
 
+@misc{abels2024mitigating,
+      title={Mitigating Biases in Collective Decision-Making: Enhancing Performance in the Face of Fake News}, 
+      author={Axel Abels and Elias Fernandez Domingos and Ann Nowé and Tom Lenaerts},
+      year={2024},
+      eprint={2403.08829},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC}
+}
+
 Our results were obtained with ```python3.7```
 
 ```analysis.ipynb``` contains code in support of our analysis
